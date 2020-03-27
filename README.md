@@ -9,7 +9,7 @@ An API is an application programming interface. It is a set of rules that allow 
 ## Getting started
 These instructions will get you a basic requirements to run this project.
 
-### Prerequisites
+### `Prerequisites`
 Before you start coding you have to install some Node Package Modules.
 1. [**ExpreJS**](https://expressjs.com/) 
   - Fast, unopinionated, minimalist web framework for node
